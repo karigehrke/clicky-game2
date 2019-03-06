@@ -1,13 +1,13 @@
 {
-  "main.css": "/karigehrke/clicky-game2/static/css/main.eacd0ee3.chunk.css",
-  "main.js": "/karigehrke/clicky-game2/static/js/main.1e0ec101.chunk.js",
-  "main.js.map": "/karigehrke/clicky-game2/static/js/main.1e0ec101.chunk.js.map",
-  "runtime~main.js": "/karigehrke/clicky-game2/static/js/runtime~main.5ad59241.js",
-  "runtime~main.js.map": "/karigehrke/clicky-game2/static/js/runtime~main.5ad59241.js.map",
-  "static/js/2.dcaae778.chunk.js": "/karigehrke/clicky-game2/static/js/2.dcaae778.chunk.js",
-  "static/js/2.dcaae778.chunk.js.map": "/karigehrke/clicky-game2/static/js/2.dcaae778.chunk.js.map",
-  "index.html": "/karigehrke/clicky-game2/index.html",
-  "precache-manifest.85288ccc9e1fe699ef3360bc2d1d205c.js": "/karigehrke/clicky-game2/precache-manifest.85288ccc9e1fe699ef3360bc2d1d205c.js",
-  "service-worker.js": "/karigehrke/clicky-game2/service-worker.js",
-  "static/css/main.eacd0ee3.chunk.css.map": "/karigehrke/clicky-game2/static/css/main.eacd0ee3.chunk.css.map"
+  "main.css": "/clicky-game2/static/css/main.eacd0ee3.chunk.css",
+  "main.js": "/clicky-game2/static/js/main.1e0ec101.chunk.js",
+  "main.js.map": "/clicky-game2/static/js/main.1e0ec101.chunk.js.map",
+  "runtime~main.js": "/clicky-game2/static/js/runtime~main.9d6fc6a7.js",
+  "runtime~main.js.map": "/clicky-game2/static/js/runtime~main.9d6fc6a7.js.map",
+  "static/js/2.dcaae778.chunk.js": "/clicky-game2/static/js/2.dcaae778.chunk.js",
+  "static/js/2.dcaae778.chunk.js.map": "/clicky-game2/static/js/2.dcaae778.chunk.js.map",
+  "index.html": "/clicky-game2/index.html",
+  "precache-manifest.025ae4c019a73c2939a4250eecf98453.js": "/clicky-game2/precache-manifest.025ae4c019a73c2939a4250eecf98453.js",
+  "service-worker.js": "/clicky-game2/service-worker.js",
+  "static/css/main.eacd0ee3.chunk.css.map": "/clicky-game2/static/css/main.eacd0ee3.chunk.css.map"
 }
