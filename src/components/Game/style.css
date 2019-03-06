@@ -1,0 +1,9 @@
+.card-flex {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  max-width: 800px;
+  margin-bottom: 30px;
+}

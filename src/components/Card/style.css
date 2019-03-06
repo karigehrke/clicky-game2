@@ -1,0 +1,12 @@
+.card-box img {
+    height: 150px;
+    width: 150px;
+}
+
+.card-box {
+    border: 2px solid red;
+    margin: 10px;
+    height: 154px;
+    width: 154px;
+    cursor: pointer;
+}

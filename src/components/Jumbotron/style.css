@@ -1,0 +1,25 @@
+.jumbotron {
+  height: 350px;
+  background-image: url("http://www.keepaustingreen.com/wp-content/uploads/2019/01/truffula-tree.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: red;
+}
+
+h4 {
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+position: relative;
+bottom: -80px;
+color: white;
+}
+
+header {
+  font-family: 'Coiny', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  position: relative;
+  bottom: -90px;
+}
